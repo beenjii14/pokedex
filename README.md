@@ -1,23 +1,23 @@
-# Pokedux ![Status badge](https://img.shields.io/badge/status-in%20progress-yellow)
+# Pokedex ![Status badge](https://img.shields.io/badge/status-in%20progress-yellow)
 
-✨ Encuentra tus pokemones favoritos y descubre todas sus habilidades para convertirte en el mejor Maestro Pokemón usando REDUX.
+## 🔎  Pokemon finder with react and redux
 
-## 🚀 Instalación
+## 🚀 Intallation
 
-1. Clona este proyecto.
-2. Ve a la carpeta del proyecto
-   `cd pokedux`
-3. Instala las dependencias
+1. Clone this repository
+2. Go to the root directory
+   `cd pokedex`
+3. Intall dependencies
    `yarn`
-4. Corre el ambiente local
+4. Run the application
    `yarn start`
 
-## 🛠 Despliegue
+## 🛠 Deployment
 
-1. Una vez instsaladas las dependencias, puedes hacer el build
+1. Deploy the application to a server
    `yarn build`
 
-## 🦀 Base de Datos Pokemon
+## 🦀 Api documentation
 
 Todos los datos vienen de [PokeApi](https://pokeapi.co/)
 
